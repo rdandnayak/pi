@@ -17,3 +17,13 @@ https://www.youtube.com/watch?v=oP6Zd5NFGnU
 
 # how i have setup wireguard VPN
 https://docs.pi-hole.net/guides/vpn/wireguard/client/
+
+# bettercap installation
+https://github.com/FideliusFalcon/Bettercap-Install-Raspberry-Pi-
+
+
+
+# ports dictionary
+- Speed tracker: 1024,1025
+- pi-hole: 1026,1027
+- bettercap: 1028,1029
